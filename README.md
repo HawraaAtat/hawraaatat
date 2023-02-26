@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,Welcome to my profile</h1>
-<h3 align="center">A third year CCE student</h3>
+<h3 align="center">A fourth year CCE student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hawraaatat&label=Profile%20views&color=0e75b6&style=flat" alt="hawraaatat" /> </p>
 
@@ -27,7 +27,6 @@
 
 <br>
 <h2 align="left">🌱 I’m currently learning</h2>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Machine Learning</p>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Developpement</p>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile App Developpement</p>
 
